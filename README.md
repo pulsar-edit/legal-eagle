@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # Legal Eagle [![CI](https://github.com/atom/legal-eagle/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/legal-eagle/actions/workflows/ci.yml)
 
 A library for listing the licenses of an npm module's dependencies.
